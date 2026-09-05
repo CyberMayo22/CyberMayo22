@@ -2,7 +2,7 @@
 <h3 align="center">Digital Forensic Analyst | Cybersecurity Analyst | Data Scientist</h3>
 
 <p align="center">
-  🔍 Investigating digital evidence, uncovering hidden data, and securing systems — one case at a time.
+  🔍 Investigating digital evidence, uncovering hidden data, and securing systems one case at a time.
 </p>
 
 ---
@@ -56,13 +56,13 @@ I approach every investigation with the same discipline a real case demands: pre
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://linkedin.com/in/oje-dominion/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
+  <a href="https://x.com/MayorrD1" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM-HANDLE" target="_blank">
+  <a href=" https://www.instagram.com/ojedominion/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
